@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 449313422
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8babb25b718c8f645913494b1ee3ad2c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9ecc2e8d717629781f019ff30323ba53
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/MakingBundle/0/Fade/fade/info.txt
+- Assets/Resources/MakingBundle/0/Fade/fade/clock_Sheet.png
+Dependencies: []

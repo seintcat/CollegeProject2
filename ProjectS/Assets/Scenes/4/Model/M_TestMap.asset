@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d83038d0519c5104abb5a9421656d670, type: 3}
+  m_Name: M_TestMap
+  m_EditorClassIdentifier: 
+  map_data: {fileID: 2800000, guid: d0db792eb93704848bb4b8efa8baeed7, type: 3}
+  skin_map: {fileID: 2800000, guid: 5765ef4f750dbfd408e963697d5132a5, type: 3}
+  skin_cursor: {fileID: 2800000, guid: 5765ef4f750dbfd408e963697d5132a5, type: 3}
+  material_map: {fileID: 2100000, guid: 2a92faa240e6df5409880a3ef69c2017, type: 2}
+  material_cursor: {fileID: 2100000, guid: 2a92faa240e6df5409880a3ef69c2017, type: 2}
+  atlasSizeInBlocks_map: 4
+  atlasSizeInBlocks_cursor: 4
+  skinOrder_map: 01000000
+  skinOrder_cursor: 02000000
+  player_color:
+  - {r: 0.5882353, g: 0.9748023, b: 1, a: 1}
+  - {r: 1, g: 0.6273585, b: 0.6273585, a: 1}

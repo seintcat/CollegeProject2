@@ -1,0 +1,1 @@
+&ColorR&1&ColorG&1&ColorB&0&ColorA&1&FadeInTime&1&FadeOutTime&1&Sprites&clock_Sheet&Term&0.1
